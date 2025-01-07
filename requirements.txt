@@ -1,0 +1,8 @@
+pyodbc
+python-dotenv
+pandas
+openai
+jupyter
+requests
+azure-core
+azure-search-documents
